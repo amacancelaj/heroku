@@ -23,7 +23,7 @@ jedi==0.14.1
 lxml==4.4.0
 mathparse==0.1.2
 murmurhash==1.0.2
-nltk==3.4.4
+nltk==3.4.5
 numpy==1.17.0
 parso==0.5.1
 pefile==2019.4.18
